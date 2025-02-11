@@ -1,10 +1,5 @@
-﻿using Moq;
-using Xunit;
+﻿using BlueHarvestAPI;
 using Microsoft.EntityFrameworkCore;
-using BlueHarvestAPI;
-using System;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace BlueHarvest.Tests
 {
